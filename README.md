@@ -2,10 +2,10 @@
 #### A person who love to learn 
 I am a Web developer and Java developer, I make projects for fun, and I try to learn new things every day, that's it!
 
-Skills: JS / HTML / CSS / Bootstarp / Java / Git 
+Skills: C++ / Problem Solving / HTML / CSS / Java
 
 - 🔭 I’m currently working on Something Intresting 
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning DSA 
 - 📫 How to reach me: omarmajdi115@gmail.com 
 - ⚡ Fun fact: Programming is funny 
 
